@@ -6,5 +6,4 @@
 
 enabled_site_setting :wakatoo_discourse_enabled
 
-register_asset "javascripts/wakatoo.js", :server_side
 register_asset "stylesheets/wakatoo-discourse.css"
