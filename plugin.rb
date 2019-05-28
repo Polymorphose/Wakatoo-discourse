@@ -1,6 +1,6 @@
 # name: wakatoo-discourse
 # about: ajoute fonction wakatoo emoji
-# version: 0.0.1
+# version: 0.1.0
 # authors: polymorphose
 # url: https://github.com/Polymorphose/Wakatoo-discourse
 
