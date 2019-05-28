@@ -1,4 +1,6 @@
+    
 img.emoji[src*=wakatoo-discourse] {
-    width: auto;
-    height: auto;
+    width: 40px;
+    height: 40px;
+    padding: 2px;
 }
