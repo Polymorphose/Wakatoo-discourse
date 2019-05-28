@@ -1,4 +1,4 @@
 plugins:
-  vb_emoticons_enabled:
+  wakatoo_discourse_enabled:
     default: true
     client: true
