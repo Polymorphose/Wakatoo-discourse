@@ -6,7 +6,7 @@
 
 enabled_site_setting :wakatoo_discourse_enabled
 
-register_asset "stylesheets/wakatoo_discourse.css"
+register_asset "stylesheets/wakatoo-discourse.css"
 
 # Wakatoo
 register_emoji "a", "/plugins/wakatoo-discourse/images/a.jpg"
