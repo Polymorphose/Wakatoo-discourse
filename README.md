@@ -1,4 +1,5 @@
-# Wakatoo-discourse
-# Plugin d'intégration wakatoo - discourse
-# Rev Alpha 0.1
-# Dev : Polymorphose
+# name: wakatoo-discourse
+# about: ajoute fonction wakatoo emoji
+# version: 0.1.1
+# authors: polymorphose
+# url: https://github.com/Polymorphose/Wakatoo-discourse
