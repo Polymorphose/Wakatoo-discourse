@@ -1,4 +1,0 @@
-plugins:
-  wakatoo_discourse_enabled:
-    default: true
-    client: true
