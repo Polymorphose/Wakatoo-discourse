@@ -1,7 +1,6 @@
 (function() {
   emojis = {
      // Wakatoo
-    'vb-smile': '/plugins/vb_emoji/images/smile.gif',
     'a': '/plugins/wakatoo-discourse/images/a.jpg',
     'e': '/plugins/wakatoo-discourse/images/e.jpg',
     'fleche': '/plugins/wakatoo-discourse/images/fleche.jpg',
