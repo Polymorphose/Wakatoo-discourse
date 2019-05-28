@@ -8,8 +8,7 @@ enabled_site_setting :wakatoo_discourse_enabled
 
 register_asset "stylesheets/wakatoo-discourse.css"
 
-register_emoji "vb-smile", "/plugins/discourse-plugin-vb-emoticons/images/smile.gif"
-
+#wakatoo
 register_emoji "a", "/plugins/wakatoo-discourse/images/a.jpg"
 register_emoji "e", "/plugins/wakatoo-discourse/images/e.jpg"
 register_emoji "fleche", "/plugins/wakatoo-discourse/images/fleche.jpg"
