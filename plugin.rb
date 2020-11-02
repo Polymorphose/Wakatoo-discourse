@@ -1,6 +1,6 @@
 # name: wakatoo-discourse
 # about: ajoute fonction wakatoo emoji
-# version: 0.1.2
+# version: 0.1.3
 # authors: polymorphose
 # url: https://github.com/Polymorphose/Wakatoo-discourse
 
@@ -8,6 +8,7 @@ enabled_site_setting :wakatoo_discourse_enabled
 
 register_asset "stylesheets/wakatoo-discourse.css"
 
+after_initialize do
 # Wakatoo
 register_emoji "a", "/plugins/wakatoo-discourse/images/a.jpg"
 register_emoji "e", "/plugins/wakatoo-discourse/images/e.jpg"
@@ -40,3 +41,4 @@ register_emoji "wa", "/plugins/wakatoo-discourse/images/wa.jpg"
 register_emoji "waon", "/plugins/wakatoo-discourse/images/waon.jpg"
 register_emoji "wi", "/plugins/wakatoo-discourse/images/wi.jpg"
 register_emoji "won", "/plugins/wakatoo-discourse/images/won.jpg"
+end
