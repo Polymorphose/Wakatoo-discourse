@@ -58,4 +58,5 @@ register_emoji "touf_respi", "/plugins/wakatoo-discourse/images/touf-respi.jpg"
 register_emoji "touf", "/plugins/wakatoo-discourse/images/touf.jpg"
 register_emoji "ts", "/plugins/wakatoo-discourse/images/ts.jpg"
 register_emoji "gon", "/plugins/wakatoo-discourse/images/gon.jpg"
+register_emoji "on_joues", "/plugins/wakatoo-discourse/images/on-joues.jpg"
 end
