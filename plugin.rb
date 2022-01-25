@@ -41,4 +41,7 @@ register_emoji "wa", "/plugins/wakatoo-discourse/images/wa.jpg"
 register_emoji "waon", "/plugins/wakatoo-discourse/images/waon.jpg"
 register_emoji "wi", "/plugins/wakatoo-discourse/images/wi.jpg"
 register_emoji "won", "/plugins/wakatoo-discourse/images/won.jpg"
+register_emoji "di_joues", "/plugins/wakatoo-discourse/images/di-joues.jpg"
+register_emoji "do_joues", "/plugins/wakatoo-discourse/images/do-joues.jpg"
+register_emoji "don_joues", "/plugins/wakatoo-discourse/images/don-joues.jpg"
 end
