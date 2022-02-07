@@ -59,5 +59,7 @@ register_emoji "ts", "/plugins/wakatoo-discourse/images/ts.jpg"
 register_emoji "gon", "/plugins/wakatoo-discourse/images/gon.jpg"
 register_emoji "on_joues", "/plugins/wakatoo-discourse/images/on-joues.jpg"
 register_emoji "o_joues", "/plugins/wakatoo-discourse/images/o-joues.jpg"
+register_emoji "pch_joues", "/plugins/wakatoo-discourse/images/pch-respi.jpg"
+register_emoji "pch", "/plugins/wakatoo-discourse/images/pch.jpg"
 
 end
